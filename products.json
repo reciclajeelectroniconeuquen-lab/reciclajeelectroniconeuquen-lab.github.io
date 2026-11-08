@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "CEL-0001",
+    "name": "Motorola E20",
+    "category": "Celulares",
+    "price": 20000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0001.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0002",
+    "name": "Motorola E20",
+    "category": "Celulares",
+    "price": 20000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0002.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0003",
+    "name": "Motorola E7 Power",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "RAM 2GB / Memoria 32GB / Sin detalles",
+    "image": "/images/products/cel-0003.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0004",
+    "name": "Motorola E7 Power",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "RAM 2GB / Memoria 32GB / Sin detalles",
+    "image": "/images/products/cel-0004.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0005",
+    "name": "Motorola E7 Power",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "RAM 2GB / Memoria 32GB / Sin detalles",
+    "image": "/images/products/cel-0005.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0006",
+    "name": "Motorola E7 Power",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "RAM 2GB / Memoria 32GB / Sin detalles",
+    "image": "/images/products/cel-0006.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0007",
+    "name": "Motorola E7 Power",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "RAM 2GB / Memoria 32GB / Sin detalles",
+    "image": "/images/products/cel-0007.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0008",
+    "name": "Motorola E22",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0008.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0009",
+    "name": "Motorola E13",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0009.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0010",
+    "name": "Motorola E20",
+    "category": "Celulares",
+    "price": 40000,
+    "specs": "RAM 2GB / Memoria 32GB / Sin detalles",
+    "image": "/images/products/cel-0010.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0011",
+    "name": "Motorola E20",
+    "category": "Celulares",
+    "price": 40000,
+    "specs": "RAM 2GB / Memoria 32GB / Sin detalles",
+    "image": "/images/products/cel-0011.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0012",
+    "name": "Motorola E20",
+    "category": "Celulares",
+    "price": 40000,
+    "specs": "RAM 2GB / Memoria 32GB / Sin detalles",
+    "image": "/images/products/cel-0012.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0013",
+    "name": "Samsung Galaxy A02",
+    "category": "Celulares",
+    "price": 20000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0013.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0014",
+    "name": "Samsung Galaxy A02",
+    "category": "Celulares",
+    "price": 20000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0014.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0015",
+    "name": "Samsung Galaxy A02",
+    "category": "Celulares",
+    "price": 20000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0015.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0016",
+    "name": "Samsung Galaxy A02",
+    "category": "Celulares",
+    "price": 20000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0016.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0017",
+    "name": "Samsung Galaxy A02",
+    "category": "Celulares",
+    "price": 40000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0017.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0018",
+    "name": "Samsung Galaxy A02",
+    "category": "Celulares",
+    "price": 40000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0018.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0019",
+    "name": "Samsung Galaxy A02",
+    "category": "Celulares",
+    "price": 40000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0019.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0020",
+    "name": "Samsung Galaxy A03 Core",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0020.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0021",
+    "name": "Samsung Galaxy A03 Core",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0021.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0022",
+    "name": "Samsung Galaxy A03 Core",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0022.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0023",
+    "name": "Samsung Galaxy A03 Core",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0023.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0024",
+    "name": "Samsung Galaxy A03 Core",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0024.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0025",
+    "name": "Samsung Galaxy A03",
+    "category": "Celulares",
+    "price": 35000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0025.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0026",
+    "name": "Samsung Galaxy A03",
+    "category": "Celulares",
+    "price": 35000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0026.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0028",
+    "name": "Samsung Galaxy A04E",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0028.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0029",
+    "name": "Samsung Galaxy A04E",
+    "category": "Celulares",
+    "price": 50000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0029.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0030",
+    "name": "Samsung Galaxy A03",
+    "category": "Celulares",
+    "price": 70000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0030.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0031",
+    "name": "Samsung Galaxy A03",
+    "category": "Celulares",
+    "price": 70000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0031.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0032",
+    "name": "Samsung Galaxy A03",
+    "category": "Celulares",
+    "price": 70000,
+    "specs": "Sin detalles",
+    "image": "/images/products/cel-0032.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0033",
+    "name": "Samsung Galaxy A06",
+    "category": "Celulares",
+    "price": 80000,
+    "specs": "Con detalles",
+    "image": "/images/products/cel-0033.jpg",
+    "stock": 1,
+    "status": "En reparación"
+  },
+  {
+    "id": "CEL-0034",
+    "name": "Samsung Galaxy A04E",
+    "category": "Celulares",
+    "price": 80000,
+    "specs": "RAM 3GB / Memoria 64GB / Sin detalles",
+    "image": "/images/products/cel-0034.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0035",
+    "name": "Samsung Galaxy A04E",
+    "category": "Celulares",
+    "price": 80000,
+    "specs": "RAM 3GB / Memoria 64GB / Sin detalles",
+    "image": "/images/products/cel-0035.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CEL-0036",
+    "name": "Samsung Galaxy A04E",
+    "category": "Celulares",
+    "price": 80000,
+    "specs": "RAM 3GB / Memoria 64GB / Sin detalles",
+    "image": "/images/products/cel-0036.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "NB-0002",
+    "name": "Lenovo v330-15IKB",
+    "category": "Notebooks",
+    "price": 100000,
+    "specs": "i5-8250u / 1x8GB",
+    "image": "/images/products/nb-0002.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "NB-0003",
+    "name": "Commodore A24A",
+    "category": "Notebooks",
+    "price": 180000,
+    "specs": "I7-3 / 2x4Gb / King SSD 120 Gb / Pantalla 14.0\" / Con cargador / Linux Mint (Cli-reciclame)",
+    "image": "/images/products/nb-0003.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "NB-0004",
+    "name": "Bangho MAX L4",
+    "category": "Notebooks",
+    "price": 150000,
+    "specs": "I5-11 / 1x8 / M2 250Gb / Pantalla 14.0\" / Con cargador / Linux Mint (Cli-reciclame)",
+    "image": "/images/products/nb-0004.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "NB-0005",
+    "name": "Dell Latitude E6330",
+    "category": "Notebooks",
+    "price": 150000,
+    "specs": "I5- 3380 / DDR3 4GB / 120 SSD / Pantalla 14.0\" / Con cargador / Linux Mint (Cli-reciclame)",
+    "image": "/images/products/nb-0005.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "NB-0006",
+    "name": "Dell Latitude E6410",
+    "category": "Notebooks",
+    "price": 150000,
+    "specs": "I5-M560 (gen1) / DDR3 6GB / 120 SSD / Pantalla 14.0\" / Con cargador / Linux Mint (Cli-reciclame)",
+    "image": "/images/products/nb-0006.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "NB-0007",
+    "name": "Dell Latitude E6330",
+    "category": "Notebooks",
+    "price": 100000,
+    "specs": "DDR3 4GB / 120SD / Pantalla 14.0\" / Con cargador / Linux Mint (Cli-reciclame)",
+    "image": "/images/products/nb-0007.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "NB-0008",
+    "name": "HP 240 G7",
+    "category": "Notebooks",
+    "price": 150000,
+    "specs": "I5-8 / DDR4 / falta traba y M2 / Pantalla 14.0\"",
+    "image": "/images/products/nb-0008.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "NB-0009",
+    "name": "Asus X555 LAB v1.0",
+    "category": "Notebooks",
+    "price": 150000,
+    "specs": "I5-2 / DDR3 8Gb / SSD 120 GB / Pantalla 15.0\" / Con cargador / Linux Mint (Cli-reciclame)",
+    "image": "/images/products/nb-0009.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0001",
+    "name": "PC Kely intel I3 4ta Gen 3,6",
+    "category": "PCs",
+    "price": 90000,
+    "specs": "Asrok h81m-vg4 / Video: Nvidia 1GB / Disco 500.0 / RAM 4.0 DDR3 / Color Negro",
+    "image": "/images/products/cpu-0001.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0003",
+    "name": "PC conmodore intel celeron 2,7 ghz",
+    "category": "PCs",
+    "price": 70000,
+    "specs": "Asus h61m / Video: no / Disco 320.0 / RAM 4.0 DDR3 / Color Negro",
+    "image": "/images/products/cpu-0003.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0004",
+    "name": "PC banghoo amd semmprom 140 2,7ghz",
+    "category": "PCs",
+    "price": 50000,
+    "specs": "Video: no / Disco 320.0 / RAM 4.0 DDR3 / Color Negro",
+    "image": "/images/products/cpu-0004.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0005",
+    "name": "PC Overcase AMD Phenon xII 560 3,3Ghz",
+    "category": "PCs",
+    "price": 50000,
+    "specs": "Video: no / Disco 500.0 / RAM 4.0 DDR3 / Fuente 500.0 / Color Negro Rojo",
+    "image": "/images/products/cpu-0005.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0006",
+    "name": "PC Over Core duo E7400 2,8Ghz",
+    "category": "PCs",
+    "price": 30000,
+    "specs": "Video: no / Disco 320.0 / RAM 4.0 DDR2 / Fuente 500.0 / Color Negro",
+    "image": "/images/products/cpu-0006.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0009",
+    "name": "PC Cromax I3-8",
+    "category": "PCs",
+    "price": 125000,
+    "specs": "Video: no / Disco 500.0 / RAM sin RAM DDR4 / Fuente 500 W / Color Negro",
+    "image": "/images/products/cpu-0009.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0010",
+    "name": "PC HP A8-6500",
+    "category": "PCs",
+    "price": 150000,
+    "specs": "Video: no / Disco 500.0 / RAM 6.0 DDR3 / Color EliteDesk",
+    "image": "/images/products/cpu-0010.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0011",
+    "name": "PC Banghoo I3-3240",
+    "category": "PCs",
+    "price": 100000,
+    "specs": "Disco 500.0 / RAM 8.0 DDR3 / Color Negra",
+    "image": "/images/products/cpu-0011.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0012",
+    "name": "PC HP EliteDesk AMd pro a8-8650",
+    "category": "PCs",
+    "price": 180000,
+    "specs": "Video: no / Disco 500.0 / RAM 8.0 DDR3 / Fuente 200 W / Color Negra",
+    "image": "/images/products/cpu-0012.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0016",
+    "name": "PC HP EliteDesk A10-9700 R7",
+    "category": "PCs",
+    "price": 200000,
+    "specs": "Video: Integrado / Disco 500.0 / RAM 8.0 DDR4 / Fuente 200.0 / Color Negra",
+    "image": "/images/products/cpu-0016.jpg",
+    "stock": 1,
+    "status": "En reparación"
+  },
+  {
+    "id": "CPU-0017",
+    "name": "PC HP EliteDesk AMd pro a8-8650",
+    "category": "PCs",
+    "price": 180000,
+    "specs": "Video: no / Disco 500.0 / RAM 8.0 DDR3 / Fuente 200 W / Color Negra",
+    "image": "/images/products/cpu-0017.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0018",
+    "name": "PC Banghoo I3-3240",
+    "category": "PCs",
+    "price": 100000,
+    "specs": "Disco 500.0 / RAM 8.0 DDR3 / Color Negra",
+    "image": "/images/products/cpu-0018.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0019",
+    "name": "PC HP ProDesk I5-4590",
+    "category": "PCs",
+    "price": 100000,
+    "specs": "Video: no / Disco 500.0 / RAM 8.0 DDR3 / Fuente 200.0 / Color Negra",
+    "image": "/images/products/cpu-0019.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0020",
+    "name": "PC HP ProDesk I5-4590",
+    "category": "PCs",
+    "price": 100000,
+    "specs": "Video: no / Disco 500.0 / RAM 8.0 DDR3 / Fuente 200.0 / Color Negra",
+    "image": "/images/products/cpu-0020.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0024",
+    "name": "PC HP ProDesk I5-6",
+    "category": "PCs",
+    "price": 200000,
+    "specs": "Video: no / Disco 1TB / RAM 8.0 DDR4 / Fuente 200.0 / Color Negra y gris",
+    "image": "/images/products/cpu-0024.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0025",
+    "name": "PC Asus I3-8",
+    "category": "PCs",
+    "price": 200000,
+    "specs": "Video: no / RAM  DDR4 / Fuente 500.0 / Color Negra",
+    "image": "/images/products/cpu-0025.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0027",
+    "name": "PC Sentey I5-7",
+    "category": "PCs",
+    "price": 150000,
+    "specs": "Asus H110DM-H / Video: no / Disco King SSD 120Gb / RAM sin DDR4 / Fuente 600.0 / Color Negra",
+    "image": "/images/products/cpu-0027.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0028",
+    "name": "PC Sin Marca",
+    "category": "PCs",
+    "price": 100000,
+    "specs": "H61G678 / Video: no / Disco Gigabyte 240 GB / RAM 8.0 DDR3 / Fuente 500.0 / Color Negra",
+    "image": "/images/products/cpu-0028.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0034",
+    "name": "PC HP ProDesk I5-4590",
+    "category": "PCs",
+    "price": 125000,
+    "specs": "Video: no / Disco 500.0 / RAM 8.0 DDR3 / Fuente 200.0 / Color Negra",
+    "image": "/images/products/cpu-0034.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0035",
+    "name": "PC HP ProDesk I5-4590",
+    "category": "PCs",
+    "price": 125000,
+    "specs": "Video: no / Disco 500.0 / RAM 8.0 DDR3 / Fuente 200.0 / Color Negra",
+    "image": "/images/products/cpu-0035.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0037",
+    "name": "PC HP ProDesk I5-4590",
+    "category": "PCs",
+    "price": 125000,
+    "specs": "Video: no / Disco 500.0 / RAM 8.0 DDR3 / Fuente 200.0 / Color Negra",
+    "image": "/images/products/cpu-0037.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0038",
+    "name": "PC Banghoo I3-3240",
+    "category": "PCs",
+    "price": 125000,
+    "specs": "Disco 500.0 / RAM 8.0 DDR3 / Color Negra",
+    "image": "/images/products/cpu-0038.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0039",
+    "name": "PC Banghoo I3-4130",
+    "category": "PCs",
+    "price": 125000,
+    "specs": "Disco SSD 120 / RAM 8.0 DDR3 / Color Negra",
+    "image": "/images/products/cpu-0039.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "CPU-0040",
+    "name": "PC Banghoo I3-4130",
+    "category": "PCs",
+    "price": 125000,
+    "specs": "Disco 500.0 / RAM 8.0 DDR3 / Color Negra",
+    "image": "/images/products/cpu-0040.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0001",
+    "name": "Servidor HP",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "intel I5 4ta / HP / Video: si / Slots 4.0 / RAM DDR3 / Color Negro",
+    "image": "/images/products/srv-0001.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0002",
+    "name": "Servidor dell Precicion T3610e",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "Xeon / Dell / Video ext: si / Slots 8.0 / RAM DDR3 / Color Negro",
+    "image": "/images/products/srv-0002.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0003",
+    "name": "Servidor HP",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "proliant ml350 G6 Server / HP / Slots 16.0 / RAM DDR3 / Fuente 750.0 / Color Negra",
+    "image": "/images/products/srv-0003.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0004",
+    "name": "Servidor dell Precicion T3610e",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "Xeon / Dell / Video ext: si / Slots 8.0 / RAM DDR3 / Fuente no funciona / Color Negro",
+    "image": "/images/products/srv-0004.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0005",
+    "name": "Servidor dell Precicion T3610e",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "Xeon / Dell / Video: si / Video ext: si / Slots 8.0 / RAM DDR3 / Color Negro",
+    "image": "/images/products/srv-0005.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0006",
+    "name": "Servidor dell Precicion T3610e",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "Xeon / Dell / Video: si / Video ext: si / Slots 8.0 / RAM DDR3 / Color Negro",
+    "image": "/images/products/srv-0006.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0007",
+    "name": "Servidor dell Precicion T3610e",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "Xeon / Dell / Video: si / Video ext: si / Slots 8.0 / RAM DDR3 / Color Negro",
+    "image": "/images/products/srv-0007.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0008",
+    "name": "Servidor dell Precicion T3610e",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "Xeon / Dell / Video: si / Video ext: si / Slots 8.0 / RAM DDR3 / Color Negro",
+    "image": "/images/products/srv-0008.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0009",
+    "name": "Servidor dell Precicion T3610e",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "Xeon / Dell / Video ext: si / RAM DDR3 / Color Negro",
+    "image": "/images/products/srv-0009.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0011",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR3 / Fuente 240.0 / Color Negra",
+    "image": "/images/products/srv-0011.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0012",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR4 / Fuente 200.0 / Color Negra",
+    "image": "/images/products/srv-0012.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0013",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR3 / Fuente 200.0 / Color Negra",
+    "image": "/images/products/srv-0013.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0014",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR3 / Fuente 200.0 / Color Negra",
+    "image": "/images/products/srv-0014.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0015",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR3 / Fuente 450.0 / Color Negra y roja",
+    "image": "/images/products/srv-0015.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0016",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR3 / Fuente 200.0 / Color Negra",
+    "image": "/images/products/srv-0016.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0017",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR4 / Fuente 200.0 / Color Negra y gris",
+    "image": "/images/products/srv-0017.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0018",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR4 / Fuente 500.0 / Color Negra",
+    "image": "/images/products/srv-0018.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0019",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR3 / Fuente 500.0 / Color Negra",
+    "image": "/images/products/srv-0019.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0020",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR4 / Fuente 600.0 / Color Negra",
+    "image": "/images/products/srv-0020.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0021",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR3 / Fuente 500.0 / Color Negra",
+    "image": "/images/products/srv-0021.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0022",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR3 / Fuente 600.0 / Color Negra",
+    "image": "/images/products/srv-0022.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "SRV-0023",
+    "name": "Servidor Sin marca",
+    "category": "Servidores",
+    "price": 250000,
+    "specs": "RAM DDR3 / Fuente 500.0 / Color negra",
+    "image": "/images/products/srv-0023.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0001",
+    "name": "Monitor View Sonic VE5105",
+    "category": "Monitores",
+    "price": 20000,
+    "specs": "Lcd / 15.0\" / Fuente externa: No",
+    "image": "/images/products/mon-0001.jpg",
+    "stock": 2,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0002",
+    "name": "Monitor HP L1506",
+    "category": "Monitores",
+    "price": 20000,
+    "specs": "Lcd / 15.0\" / Fuente externa: NO",
+    "image": "/images/products/mon-0002.jpg",
+    "stock": 52,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0003",
+    "name": "Monitor Samsung 740NW",
+    "category": "Monitores",
+    "price": 30000,
+    "specs": "Lcd / 15.0\" / Fuente externa: No",
+    "image": "/images/products/mon-0003.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0004",
+    "name": "Monitor DELL E17056",
+    "category": "Monitores",
+    "price": 25000,
+    "specs": "Lcd / 17.0\" / Fuente externa: NO",
+    "image": "/images/products/mon-0004.jpg",
+    "stock": 28,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0005",
+    "name": "Monitor DELL E190FS",
+    "category": "Monitores",
+    "price": 30000,
+    "specs": "Lcd / 17.0\" / Fuente externa: NO",
+    "image": "/images/products/mon-0005.jpg",
+    "stock": 3,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0006",
+    "name": "Monitor CX CX185",
+    "category": "Monitores",
+    "price": 40000,
+    "specs": "Led / 18.5\" / Fuente externa: NO",
+    "image": "/images/products/mon-0006.jpg",
+    "stock": 23,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0007",
+    "name": "Monitor HP V194",
+    "category": "Monitores",
+    "price": 40000,
+    "specs": "Led / 18.5\" / Salida VGA / Fuente externa: NO",
+    "image": "/images/products/mon-0007.jpg",
+    "stock": 4,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0008",
+    "name": "Monitor LG W1943SE",
+    "category": "Monitores",
+    "price": 40000,
+    "specs": "Led / 19.0\" / Fuente externa: Si",
+    "image": "/images/products/mon-0008.jpg",
+    "stock": 3,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0009",
+    "name": "Monitor Samsung BX1930N",
+    "category": "Monitores",
+    "price": 40000,
+    "specs": "Led / 19.0\" / Fuente externa: No",
+    "image": "/images/products/mon-0009.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0010",
+    "name": "Monitor Samsung LS19D300",
+    "category": "Monitores",
+    "price": 45000,
+    "specs": "Led / 19.0\" / Fuente externa: Si",
+    "image": "/images/products/mon-0010.jpg",
+    "stock": 4,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0011",
+    "name": "Monitor Samsung S19B300B",
+    "category": "Monitores",
+    "price": 50000,
+    "specs": "Led / 19.0\" / Fuente externa: Si",
+    "image": "/images/products/mon-0011.jpg",
+    "stock": 8,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0012",
+    "name": "Monitor Samsung S19C300B",
+    "category": "Monitores",
+    "price": 50000,
+    "specs": "Led / 19.0\" / Fuente externa: Si",
+    "image": "/images/products/mon-0012.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0013",
+    "name": "Monitor LG 19EN33",
+    "category": "Monitores",
+    "price": 50000,
+    "specs": "Led / 19.0\" / Fuente externa: Si",
+    "image": "/images/products/mon-0013.jpg",
+    "stock": 11,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0014",
+    "name": "Monitor HP LV1911",
+    "category": "Monitores",
+    "price": 50000,
+    "specs": "LCD / 19.0\"",
+    "image": "/images/products/mon-0014.jpg",
+    "stock": 24,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0015",
+    "name": "Monitor Samsung CMS19WS",
+    "category": "Monitores",
+    "price": 40000,
+    "specs": "Lcd / 19.0\" / Fuente externa: No",
+    "image": "/images/products/mon-0015.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0016",
+    "name": "Monitor LG 19M35A",
+    "category": "Monitores",
+    "price": 40000,
+    "specs": "Lcd / 19.0\" / Fuente externa: No",
+    "image": "/images/products/mon-0016.jpg",
+    "stock": 14,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0017",
+    "name": "Monitor Bangho EL2080wl",
+    "category": "Monitores",
+    "price": 45000,
+    "specs": "Led / 20.0\" / Fuente externa: No",
+    "image": "/images/products/mon-0017.jpg",
+    "stock": 12,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0018",
+    "name": "Monitor HP ",
+    "category": "Monitores",
+    "price": 100000,
+    "specs": "Led / 21.5\" / Salida HDMI / VGA / Fuente externa: No",
+    "image": "/images/products/mon-0018.jpg",
+    "stock": 5,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0019",
+    "name": "Monitor LG 22WP48HQ",
+    "category": "Monitores",
+    "price": 100000,
+    "specs": "Led / 22.0\" / Fuente externa: Si",
+    "image": "/images/products/mon-0019.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "MON-0020",
+    "name": "Monitor HP N223",
+    "category": "Monitores",
+    "price": 100000,
+    "specs": "Led / 22.0\"",
+    "image": "/images/products/mon-0020.jpg",
+    "stock": 5,
+    "status": "En stock"
+  },
+  {
+    "id": "REP-0001",
+    "name": "Varias Fuentes 12 V",
+    "category": "Repuestos",
+    "price": 5000,
+    "specs": "Peso aprox. 150 Grs por unidad",
+    "image": "/images/products/rep-0001.jpg",
+    "stock": 13,
+    "status": "Para desguace/Valorización"
+  },
+  {
+    "id": "REP-0002",
+    "name": "Varios Cable VGA",
+    "category": "Repuestos",
+    "price": 5000,
+    "specs": "",
+    "image": "/images/products/rep-0002.jpg",
+    "stock": 30,
+    "status": "En stock"
+  },
+  {
+    "id": "REP-0003",
+    "name": "Varios Teclados",
+    "category": "Repuestos",
+    "price": 5000,
+    "specs": "",
+    "image": "/images/products/rep-0003.jpg",
+    "stock": 3,
+    "status": "En stock"
+  },
+  {
+    "id": "REP-0004",
+    "name": "Varios UPS",
+    "category": "Repuestos",
+    "price": 5000,
+    "specs": "",
+    "image": "/images/products/rep-0004.jpg",
+    "stock": 1,
+    "status": "En stock"
+  },
+  {
+    "id": "TV-0001",
+    "name": "TV Samsung un32j5500agcdf",
+    "category": "TV",
+    "price": 100000,
+    "specs": "Smart / 32.0\"",
+    "image": "/images/products/tv-0001.jpg",
+    "stock": 1,
+    "status": "En stock"
+  }
+]

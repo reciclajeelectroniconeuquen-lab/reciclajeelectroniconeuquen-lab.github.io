@@ -1,0 +1,256 @@
+{
+ "taller": [
+  {
+   "src": "/images/taller/taller-01.jpg",
+   "w": 1600,
+   "h": 1200,
+   "fecha": "2022-06-29"
+  },
+  {
+   "src": "/images/taller/taller-02.jpg",
+   "w": 1600,
+   "h": 1200,
+   "fecha": "2022-06-29"
+  },
+  {
+   "src": "/images/taller/taller-03.jpg",
+   "w": 1600,
+   "h": 1200,
+   "fecha": "2022-06-29"
+  },
+  {
+   "src": "/images/taller/taller-04.jpg",
+   "w": 1600,
+   "h": 1200,
+   "fecha": "2022-06-29"
+  },
+  {
+   "src": "/images/taller/taller-05.jpg",
+   "w": 1600,
+   "h": 1200,
+   "fecha": "2022-07-19"
+  },
+  {
+   "src": "/images/taller/taller-06.jpg",
+   "w": 1600,
+   "h": 1200,
+   "fecha": "2022-07-19"
+  },
+  {
+   "src": "/images/taller/taller-07.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2022-07-19"
+  },
+  {
+   "src": "/images/taller/taller-08.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2022-08-26"
+  },
+  {
+   "src": "/images/taller/taller-09.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2022-09-01"
+  },
+  {
+   "src": "/images/taller/taller-10.jpg",
+   "w": 1600,
+   "h": 714,
+   "fecha": "2023-05-31"
+  },
+  {
+   "src": "/images/taller/taller-11.jpg",
+   "w": 1600,
+   "h": 1200,
+   "fecha": "2023-06-23"
+  },
+  {
+   "src": "/images/taller/taller-12.jpg",
+   "w": 1600,
+   "h": 714,
+   "fecha": "2023-07-10"
+  },
+  {
+   "src": "/images/taller/taller-13.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2023-07-13"
+  },
+  {
+   "src": "/images/taller/taller-14.jpg",
+   "w": 1600,
+   "h": 714,
+   "fecha": "2023-10-02"
+  },
+  {
+   "src": "/images/taller/taller-15.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2024-03-06"
+  },
+  {
+   "src": "/images/taller/taller-16.jpg",
+   "w": 1205,
+   "h": 1600,
+   "fecha": "2024-03-21"
+  },
+  {
+   "src": "/images/taller/taller-17.jpg",
+   "w": 1600,
+   "h": 1056,
+   "fecha": "2024-07-26"
+  },
+  {
+   "src": "/images/taller/taller-18.jpg",
+   "w": 1600,
+   "h": 1200,
+   "fecha": "2024-09-06"
+  },
+  {
+   "src": "/images/taller/taller-19.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2025-10-09"
+  },
+  {
+   "src": "/images/taller/taller-20.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2025-10-09"
+  },
+  {
+   "src": "/images/taller/taller-21.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2025-10-10"
+  },
+  {
+   "src": "/images/taller/taller-22.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2025-10-13"
+  },
+  {
+   "src": "/images/taller/taller-23.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2025-10-14"
+  },
+  {
+   "src": "/images/taller/taller-24.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2025-10-19"
+  },
+  {
+   "src": "/images/taller/taller-25.jpg",
+   "w": 1600,
+   "h": 1200,
+   "fecha": "2025-10-19"
+  },
+  {
+   "src": "/images/taller/taller-26.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2025-10-22"
+  },
+  {
+   "src": "/images/taller/taller-27.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2025-10-22"
+  },
+  {
+   "src": "/images/taller/taller-28.jpg",
+   "w": 1600,
+   "h": 1200,
+   "fecha": "2025-10-24"
+  },
+  {
+   "src": "/images/taller/taller-29.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2025-11-03"
+  },
+  {
+   "src": "/images/taller/taller-30.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2025-11-03"
+  },
+  {
+   "src": "/images/taller/taller-31.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2026-04-29"
+  },
+  {
+   "src": "/images/taller/taller-32.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2026-04-29"
+  },
+  {
+   "src": "/images/taller/taller-33.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2026-04-29"
+  },
+  {
+   "src": "/images/taller/taller-34.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2026-04-29"
+  },
+  {
+   "src": "/images/taller/taller-35.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2026-04-29"
+  },
+  {
+   "src": "/images/taller/taller-36.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2026-05-04"
+  },
+  {
+   "src": "/images/taller/taller-37.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2026-05-13"
+  },
+  {
+   "src": "/images/taller/taller-38.jpg",
+   "w": 900,
+   "h": 1600,
+   "fecha": "2026-05-29"
+  },
+  {
+   "src": "/images/taller/taller-39.jpg",
+   "w": 1280,
+   "h": 960,
+   "fecha": "2026-06-02"
+  },
+  {
+   "src": "/images/taller/taller-40.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2026-08-19"
+  },
+  {
+   "src": "/images/taller/taller-41.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2026-10-07"
+  },
+  {
+   "src": "/images/taller/taller-42.jpg",
+   "w": 1200,
+   "h": 1600,
+   "fecha": "2026-10-13"
+  }
+ ]
+}
